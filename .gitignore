@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# Slickedit files
+*.vpw
+*.vpj
+*.vpwhistu
+*.vtg
+
